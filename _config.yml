@@ -1,0 +1,8 @@
+# https://jupyterbook.org/en/stable/customize/config.html
+
+title: 量潮项目管理手册
+author: 量潮科技
+
+repository:
+  url: https://github.com/quanttide/quanttide-handbook-of-project-management/  # The URL to your book's repository
+  branch: main  # Which branch of the repository should be used when creating links
