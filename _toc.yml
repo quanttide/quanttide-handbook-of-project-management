@@ -1,6 +1,7 @@
 format: jb-book
 root: index.md
 chapters:
-  - file: meetings/README.md
-    sections:
-      - file: meetings/issues.md
+- file: projects/README.md
+- file: matters/README.md
+
+
